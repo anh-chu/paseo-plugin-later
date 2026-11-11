@@ -1,7 +1,7 @@
 {
   "id": "paseo-plugin-later",
   "name": "Later",
-  "description": "Schedules a one-off message to an agent, so it arrives when a usage limit resets or later in the session.",
+  "description": "Type /later 16m <message> in an agent's composer to send that agent a message later, for example after a usage limit resets.",
   "media": [
     "assets/screenshot-row.png"
   ],

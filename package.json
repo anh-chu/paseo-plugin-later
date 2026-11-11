@@ -1,6 +1,6 @@
 {
   "name": "paseo-plugin-later",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Schedules a one-off message to a Paseo agent, so it arrives when a usage limit resets or later in the session.",
   "license": "MIT",
   "author": "anh-chu",
