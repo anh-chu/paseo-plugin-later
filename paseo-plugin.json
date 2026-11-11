@@ -1,0 +1,12 @@
+{
+  "id": "paseo-plugin-later",
+  "name": "Later",
+  "description": "Schedules a one-off message to an agent, so it arrives when a usage limit resets or later in the session.",
+  "media": [
+    "assets/screenshot-row.png"
+  ],
+  "requirements": {
+    "paseo": ">=0.15.1"
+  },
+  "icon": "assets/icon.png"
+}
